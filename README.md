@@ -71,7 +71,7 @@ MeiliSearch is a powerful, fast, open-source, easy to use, and deploy search eng
 
 ### **[Supabase](https://supabase.io/)** (version: latest)
 
-**Custom install:** [docker-compose.yaml](https://raw.githubusercontent.com/schlemahz/CasaOS-LocalAI-AppStore/master/Apps/supabase/docker-compose.yml)
+**Custom install:** [docker-compose.yml](https://raw.githubusercontent.com/schlemahz/CasaOS-LocalAI-AppStore/master/Apps/supabase/docker-compose.yml)
 
 Supabase is an open-source Firebase alternative. Supabase gives you a realtime database, authentication, instant APIs, and storage. It is the fastest way to build modern applications on Postgres. Supabase is a self-hosted solution that provides a set of tools for developers to build and scale applications quickly and easily. It is built on top of Postgres and provides a set of APIs for working with data, authentication, and storage.
 
